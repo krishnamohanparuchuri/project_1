@@ -5,5 +5,5 @@ test('add two numbers', () => {
 })
 
 test('add two numbers', () => {
-    expect(sum(1, 2)).toBe(6)
+    expect(sum(2, 2)).toBe(4)
 })
